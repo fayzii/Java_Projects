@@ -79,7 +79,6 @@ public class AES {
         numbers.add("923345358711");
         numbers.add("923345358720");
         numbers.add("923345358721");
-        numbers.add("923345358727");
 
         for (String num: numbers) {
             System.out.println("Encrypted Text : " + encrypt(num));
